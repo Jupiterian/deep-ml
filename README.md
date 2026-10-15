@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 13 problems · 0 labs · 1 math
+**15** solved · 14 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-10-08 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
+| [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-10-15 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-10-02 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-10-12 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-10-09 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
