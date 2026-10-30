@@ -10,7 +10,4 @@ def calculate_dot_product(vec1, vec2):
 		The dot product of the two vectors.
 	"""
 	# Your code here
-	dot_product = 0
-	for i in range (0, len(vec1)):
-		dot_product += vec1[i] * vec2[i]
-	return dot_product
+	return vec1 @ vec2
