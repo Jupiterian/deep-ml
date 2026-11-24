@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T03:06:46.561Z",
+  "generated_at": "2026-11-24T19:28:19.215Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -269,6 +269,19 @@
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-11-19T03:06:56.459Z",
       "last_pushed_at": "2026-11-19T03:06:56.459Z"
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-11-24T19:28:20.199Z",
+      "last_pushed_at": "2026-11-24T19:28:20.199Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
